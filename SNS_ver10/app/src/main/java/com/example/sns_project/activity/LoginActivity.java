@@ -52,8 +52,7 @@ public class LoginActivity extends BasicActivity {
         if (email.length() > 0 && password.length() > 0) {
             final RelativeLayout loaderLayout = findViewById(R.id.loaderLyaout);
             loaderLayout.setVisibility(View.VISIBLE);
-            mAuth.signInWithEmailAndPassword(email, password)
-                    .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
+            mAuth.signInWithEmailAndPassword(email, password).addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
                         @Override
                         public void onComplete(@NonNull Task<AuthResult> task) {
                             loaderLayout.setVisibility(View.GONE);

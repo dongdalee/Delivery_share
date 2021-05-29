@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.MenuItem;
+import android.view.View;
 
 import androidx.annotation.NonNull;
 
@@ -29,8 +30,8 @@ public class MainActivity extends BasicActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         setToolbarTitle(getResources().getString(R.string.app_name));
-
         init();
+
     }
 
     @Override

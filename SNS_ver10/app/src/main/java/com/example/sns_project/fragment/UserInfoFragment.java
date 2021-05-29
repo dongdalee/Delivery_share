@@ -19,6 +19,7 @@ import com.bumptech.glide.Glide;
 import com.example.sns_project.PostInfo;
 import com.example.sns_project.R;
 import com.example.sns_project.UserInfo;
+import com.example.sns_project.activity.LocationActivity;
 import com.example.sns_project.activity.MemberInitActivity;
 import com.example.sns_project.activity.WritePostActivity;
 import com.example.sns_project.adapter.UserListAdapter;
@@ -45,7 +46,11 @@ public class UserInfoFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
     }
+
+
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,

@@ -16,6 +16,7 @@ import android.view.ViewGroup;
 
 import com.example.sns_project.PostInfo;
 import com.example.sns_project.R;
+import com.example.sns_project.activity.LocationActivity;
 import com.example.sns_project.activity.WritePostActivity;
 import com.example.sns_project.adapter.HomeAdapter;
 import com.example.sns_project.listener.OnPostListener;
@@ -58,8 +59,10 @@ public class HomeFragment extends Fragment {
         homeAdapter = new HomeAdapter(getActivity(), postList);
         homeAdapter.setOnPostListener(onPostListener);
 
+
         final RecyclerView recyclerView = view.findViewById(R.id.recyclerView);
         view.findViewById(R.id.floatingActionButton).setOnClickListener(onClickListener);
+        view.findViewById(R.id.locateSetBtn).setOnClickListener(onClickListener);
 
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new LinearLayoutManager(getActivity()));
@@ -134,6 +137,10 @@ public class HomeFragment extends Fragment {
                 */
                 case R.id.floatingActionButton:
                     myStartActivity(WritePostActivity.class);
+                    break;
+
+                case R.id.locateSetBtn:
+                    myStartActivity(LocationActivity.class);
                     break;
             }
         }

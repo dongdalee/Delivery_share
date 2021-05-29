@@ -23,9 +23,18 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/readContentsView">
-
             </com.example.sns_project.view.ReadContentsVIew>
+
         </LinearLayout>
     </ScrollView>
+    <Button
+        android:id="@+id/messengerBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="메신저 이동" />
+
 
 </RelativeLayout>
+

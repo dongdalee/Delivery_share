@@ -7,6 +7,10 @@ public class UserInfo {
     private String address;
     private String photoUrl;
 
+    public UserInfo() {
+
+    }
+
     public UserInfo(String name, String phoneNumber, String birthDay, String address, String photoUrl){
         this.name = name;
         this.phoneNumber = phoneNumber;

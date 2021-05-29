@@ -7,24 +7,22 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.ImageView;
+import android.widget.Button;
 import android.widget.LinearLayout;
 
-import com.bumptech.glide.Glide;
 import com.example.sns_project.FirebaseHelper;
 import com.example.sns_project.PostInfo;
 import com.example.sns_project.R;
 import com.example.sns_project.listener.OnPostListener;
-import com.example.sns_project.view.ContentsItemView;
 import com.example.sns_project.view.ReadContentsVIew;
-
-import static com.example.sns_project.Util.INTENT_PATH;
 
 public class PostActivity extends BasicActivity {
     private PostInfo postInfo;
     private FirebaseHelper firebaseHelper;
     private ReadContentsVIew readContentsVIew;
     private LinearLayout contentsLayout;
+    private Button messengerBtn;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,6 +32,8 @@ public class PostActivity extends BasicActivity {
         postInfo = (PostInfo) getIntent().getSerializableExtra("postInfo");
         contentsLayout = findViewById(R.id.contentsLayout);
         readContentsVIew = findViewById(R.id.readContentsView);
+
+        findViewById(R.id.messengerBtn).setOnClickListener(onClickListener);
 
         firebaseHelper = new FirebaseHelper(this);
         firebaseHelper.setOnPostListener(onPostListener);
@@ -59,6 +59,7 @@ public class PostActivity extends BasicActivity {
         getMenuInflater().inflate(R.menu.post, menu);
         return super.onCreateOptionsMenu(menu);
     }
+
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -96,4 +97,23 @@ public class PostActivity extends BasicActivity {
         intent.putExtra("postInfo", postInfo);
         startActivityForResult(intent, 0);
     }
+
+
+
+    View.OnClickListener onClickListener = new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            switch (v.getId()) {
+                case R.id.messengerBtn:
+                    myStartActivity(ChatActivity.class);
+                    break;
+            }
+        }
+    };
+
+    private void myStartActivity(Class c) {
+        Intent intent = new Intent(this, c);
+        startActivity(intent);
+    }
+
 }

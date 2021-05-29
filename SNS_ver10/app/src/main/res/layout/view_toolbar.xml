@@ -6,6 +6,6 @@
     android:layout_height="?attr/actionBarSize"
     android:background="?attr/colorPrimary"
     android:elevation="4dp"
-    android:theme="@style/Theme.SNS_Project"
+    android:theme="@style/AppTheme"
     app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
     app:titleTextColor="#FFFFFF" />
