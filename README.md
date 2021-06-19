@@ -11,7 +11,7 @@ API Android 11.0 R, AVD: R(Pixel2)
 
 
 ### SA Flow
-Please refer to document branch
+Please refer to Final Report document (https://github.com/dongdalee/Delivery_share/tree/Documents)
 
 
 ## Built With
