@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_gallery.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\item_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_message_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_message_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_gps_fixed_24.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_gps_fixed_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_write_post.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_write_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_loader.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\view_loader.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_contents_player.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\view_contents_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user_list.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\fragment_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_message_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_message_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_message_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_message_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_post.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_more_vert_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_chat.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\listitem_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_post.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\view_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_user_list.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\item_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_contents_edit_text.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\view_contents_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_message_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_message_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_password_reset.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_password_reset.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_group_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_account_circle_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_account_circle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_group_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_group_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_message_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_message_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_contents_text.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\view_contents_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_group_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_group_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_group_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_more_vert_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_more_vert_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user_info.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\fragment_user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_init.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_user_init.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_group_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_gallery.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_post.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\item_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_more_vert_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_message_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_message_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_toolbar.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\view_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera2_basic.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\fragment_camera2_basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_google_maps_api.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\google_maps_api.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_account_circle_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_account_circle_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_group_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_gps_api.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\gps_api.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_message_24.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_message_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_more_vert_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_location.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_more_vert_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_more_vert_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_more_vert_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_member_init.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\activity_member_init.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\menu_post.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\menu\\post.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_black_24dp.png.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\SNS_app\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_contents_image.xml.flat",
+        "source": "C:\\Users\\User\\Desktop\\SNS_app\\app\\src\\main\\res\\layout\\view_contents_image.xml"
+    }
+]

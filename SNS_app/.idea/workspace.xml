@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4a8d8ce-e6ea-4146-83a9-1f9d4d37872e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\User\.android\avd\R_Pixel_2_.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1t7mBDNlIZ6z0LLCxJSGBFAXxXe" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="R_Pixel_2_" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-05-30T18:01:51.961Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-view/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver3/app/src/main/java/com/example/sns_project/view/AutoFitTextureView.java_SELECTED" value="AutoFitTextureView" />
+    <property name="android-custom-view/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver3/app/src/main/java/com/example/sns_project/view/ContentsItemView.java_SELECTED" value="ContentsItemView" />
+    <property name="android-custom-view/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver3/app/src/main/java/com/example/sns_project/view/ReadContentsVIew.java_SELECTED" value="ReadContentsVIew" />
+    <property name="android-custom-view/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver5/app/src/main/java/com/example/sns_project/view/AutoFitTextureView.java_SELECTED" value="AutoFitTextureView" />
+    <property name="android-custom-view/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver5/app/src/main/java/com/example/sns_project/view/ContentsItemView.java_SELECTED" value="ContentsItemView" />
+    <property name="android-custom-view/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver5/app/src/main/java/com/example/sns_project/view/ReadContentsVIew.java_SELECTED" value="ReadContentsVIew" />
+    <property name="android-custom-view/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver7/app/src/main/java/com/example/sns_project/view/AutoFitTextureView.java_SELECTED" value="AutoFitTextureView" />
+    <property name="android-custom-view/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver7/app/src/main/java/com/example/sns_project/view/ContentsItemView.java_SELECTED" value="ContentsItemView" />
+    <property name="android-custom-view/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver7/app/src/main/java/com/example/sns_project/view/ReadContentsVIew.java_SELECTED" value="ReadContentsVIew" />
+    <property name="android-custom-viewC:/Users/User/AndroidStudioProjects/Delivery_share-main/SNS_test/app/src/main/java/com/example/sns_project/view/AutoFitTextureView.java_SELECTED" value="AutoFitTextureView" />
+    <property name="android-custom-viewC:/Users/User/AndroidStudioProjects/Delivery_share-main/SNS_test/app/src/main/java/com/example/sns_project/view/ContentsItemView.java_SELECTED" value="ContentsItemView" />
+    <property name="android-custom-viewC:/Users/User/AndroidStudioProjects/Delivery_share-main/SNS_test/app/src/main/java/com/example/sns_project/view/ReadContentsVIew.java_SELECTED" value="ReadContentsVIew" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1623935328177" />
+    <property name="multi-representation-preview/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver3/app/src/main/java/com/example/sns_project/view/AutoFitTextureView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver3/app/src/main/java/com/example/sns_project/view/ContentsItemView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver3/app/src/main/java/com/example/sns_project/view/ReadContentsVIew.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver5/app/src/main/java/com/example/sns_project/view/AutoFitTextureView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver5/app/src/main/java/com/example/sns_project/view/ContentsItemView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver5/app/src/main/java/com/example/sns_project/view/ReadContentsVIew.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver7/app/src/main/java/com/example/sns_project/view/AutoFitTextureView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver7/app/src/main/java/com/example/sns_project/view/ContentsItemView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/ijeongjae/Desktop/WorkSpace/Android/SNS_ver7/app/src/main/java/com/example/sns_project/view/ReadContentsVIew.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recommended.upgrade.last.time.stamp" value="1622128522881" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="C:\Users\User\AndroidStudioProjects\Delivery_share-main\SNS_test\app" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.sns_project.fragment" />
+      <recent name="com.example.sns_project" />
+      <recent name="com.example.sns_project.view" />
+      <recent name="com.example.sns_project.activity" />
+      <recent name="com.example.sns_project.adapter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\AndroidStudioProjects\Delivery_share-main\SNS_test\app\src\main\res\layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostActivity" type="AndroidRunConfigurationType" factoryName="Android App" temporary="true">
+      <module name="SNS_Project.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.example.sns_project.activity.PostActivity" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="AndroidRunConfigurationType" factoryName="Android App" nameIsGenerated="true">
+      <module name="SNS_Project.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.example.sns_project.activity.ChatActivity" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="SNS_Project.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Android App.Unnamed" />
+      <item itemvalue="Android App.PostActivity" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android App.PostActivity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4a8d8ce-e6ea-4146-83a9-1f9d4d37872e" name="Default Changelist" comment="" />
+      <created>1622128363643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622128363643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="165" y="136" key="#PSD" timestamp="1623932579589">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="165" y="136" key="#PSD/0.0.1280.800@0.0.1280.800" timestamp="1623932579589" />
+    <state x="1278" y="448" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1622196971935">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1278" y="448" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622196971935" />
+    <state x="274" y="378" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622132538318">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="274" y="378" width="1092" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622132538318" />
+    <state x="648" y="429" key="#com.intellij.ide.util.MemberChooser" timestamp="1622307500833">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="648" y="429" key="#com.intellij.ide.util.MemberChooser/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622307500833" />
+    <state x="549" y="525" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1622132470716">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="549" y="525" key="#com.intellij.ide.util.TreeClassChooserDialog/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622132470716" />
+    <state x="1260" y="401" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622273615023">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1260" y="401" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622273615023" />
+    <state x="485" y="176" width="1063" height="710" key="AVDManager" timestamp="1623744031930">
+      <screen x="0" y="25" width="1920" height="976" />
+    </state>
+    <state x="485" y="176" width="1063" height="710" key="AVDManager/-1440.25.1440.875/0.25.1920.976@0.25.1920.976" timestamp="1623744031930" />
+    <state x="125" y="107" width="1383" height="1047" key="AVDManager/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622305206938" />
+    <state x="391" y="385" key="AndroidCreateResourceDirectoryDialog" timestamp="1622128913318">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="391" y="385" key="AndroidCreateResourceDirectoryDialog/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622128913318" />
+    <state x="777" y="431" key="AndroidProcessChooserDialog" timestamp="1622299723422">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="777" y="431" key="AndroidProcessChooserDialog/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622299723422" />
+    <state x="1171" y="432" key="FileChooserDialogImpl" timestamp="1622307560643">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="1171" y="432" key="FileChooserDialogImpl/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622307560643" />
+    <state width="1398" height="308" key="GridCell.Tab.0.bottom" timestamp="1623949944717">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/-1440.25.1440.875/0.25.1920.976@0.25.1920.976" timestamp="1623744031893" />
+    <state width="1398" height="308" key="GridCell.Tab.0.bottom/0.25.1440.796@0.25.1440.796" timestamp="1623949944717" />
+    <state width="1845" height="291" key="GridCell.Tab.0.bottom/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622303402012" />
+    <state width="1398" height="308" key="GridCell.Tab.0.center" timestamp="1623949944717">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.center/-1440.25.1440.875/0.25.1920.976@0.25.1920.976" timestamp="1623744031893" />
+    <state width="1398" height="308" key="GridCell.Tab.0.center/0.25.1440.796@0.25.1440.796" timestamp="1623949944717" />
+    <state width="1845" height="291" key="GridCell.Tab.0.center/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622303402011" />
+    <state width="1398" height="308" key="GridCell.Tab.0.left" timestamp="1623949944714">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.left/-1440.25.1440.875/0.25.1920.976@0.25.1920.976" timestamp="1623744031892" />
+    <state width="1398" height="308" key="GridCell.Tab.0.left/0.25.1440.796@0.25.1440.796" timestamp="1623949944714" />
+    <state width="1845" height="291" key="GridCell.Tab.0.left/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622303402011" />
+    <state width="1398" height="308" key="GridCell.Tab.0.right" timestamp="1623949944717">
+      <screen x="0" y="25" width="1440" height="796" />
+    </state>
+    <state width="1878" height="259" key="GridCell.Tab.0.right/-1440.25.1440.875/0.25.1920.976@0.25.1920.976" timestamp="1623744031893" />
+    <state width="1398" height="308" key="GridCell.Tab.0.right/0.25.1440.796@0.25.1440.796" timestamp="1623949944717" />
+    <state width="1845" height="291" key="GridCell.Tab.0.right/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622303402012" />
+    <state x="449" y="324" key="SettingsEditor" timestamp="1622305151108">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="449" y="324" key="SettingsEditor/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622305151108" />
+    <state x="695" y="489" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog" timestamp="1622296361525">
+      <screen x="62" y="0" width="2498" height="1440" />
+    </state>
+    <state x="695" y="489" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622296361524" />
+    <state x="-1079" y="0" width="1114" height="1161" maximized="true" key="dock-window-1" timestamp="1622384898458">
+      <screen x="-1440" y="25" width="1440" height="875" />
+    </state>
+    <state x="-1079" y="0" width="1114" height="1161" key="dock-window-1/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622145449899" />
+    <state x="-1172" y="29" width="1165" height="1167" key="dock-window-2" timestamp="1622147516149">
+      <screen x="-1858" y="0" width="1858" height="1080" />
+    </state>
+    <state x="-1172" y="29" width="1165" height="1167" key="dock-window-2/62.0.2498.1440/-1858.0.1858.1080@62.0.2498.1440" timestamp="1622147516149" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/sns_project/activity/MainActivity.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/sns_project/activity/MainActivity.java</url>
+          <line>41</line>
+          <properties class="com.example.sns_project.activity.MainActivity" method="onPause">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-method">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/sns_project/activity/MainActivity.java</url>
+          <line>46</line>
+          <properties class="com.example.sns_project.activity.MainActivity" method="onActivityResult">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.pedroSG94:AutoPermissions:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/993f9d8ebe7313863a2532222140dd97/jetified-AutoPermissions-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/993f9d8ebe7313863a2532222140dd97/jetified-AutoPermissions-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/993f9d8ebe7313863a2532222140dd97/jetified-AutoPermissions-1.0.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5339bc57bd330bd29928e80a6f8af23/jetified-AutoPermissions-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5339bc57bd330bd29928e80a6f8af23/jetified-AutoPermissions-1.0.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e5339bc57bd330bd29928e80a6f8af23/jetified-AutoPermissions-1.0.3/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/883b04970224cc051e60d7f68cb0508c/jetified-AutoPermissions-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/883b04970224cc051e60d7f68cb0508c/jetified-AutoPermissions-1.0.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/883b04970224cc051e60d7f68cb0508c/jetified-AutoPermissions-1.0.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.pedroSG94/AutoPermissions/1.0.3/2ebf1f8c889014172e9cec70b36292fc497e4ad4/AutoPermissions-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
