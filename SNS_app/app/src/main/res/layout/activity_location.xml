@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        layout="@layout/view_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_below="@+id/toolbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="지도에서 선택"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:gravity="center"/>
+
+            <TextView
+
+                android:id="@+id/MarkTextView"
+                android:textSize="18sp"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:ems="10"
+                android:gravity="center_vertical"
+                android:textColorHint="@color/hintText"
+                android:hint="주소"
+
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:maxLines="3"
+                android:inputType="textMultiLine"/>
+
+            <Button
+                android:id="@+id/MarkButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="지도로 위치 입력"
+                android:textColor="@color/buttonText"
+                android:layout_marginBottom="60dp"/>
+        </LinearLayout>>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="1dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="GPS 위치 설정"
+                android:textColor="#000000"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:gravity="center"/>
+
+            <TextView
+
+                android:id="@+id/GPSTextView"
+                android:textSize="18sp"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:ems="10"
+                android:gravity="center_vertical"
+                android:textColorHint="@color/hintText"
+                android:hint="주소"
+
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:maxLines="3"
+                android:inputType="textMultiLine"/>
+
+            <Button
+                android:id="@+id/GPSButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/buttonText"
+                android:text="현재 위치 찾기" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:layout_marginBottom="5dp">
+
+            <Button
+                android:id="@+id/locationChkBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:textColor="@color/buttonText"
+                android:text="주소 설정 완료"
+                android:textSize="20dp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

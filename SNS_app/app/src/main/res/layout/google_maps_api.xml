@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="현재 위치에서 LongClick 시 선택"
+        android:textColorHint="@color/hintText"
+        android:padding="10dp" />
+
+    <fragment
+        android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
+</LinearLayout>
+<!--<resources>-->
+<!--    <String name="google_maps_key" templateMergeStrategy="preserve" translatable="false">-->
+<!--        AIzaSyBp5rmf_csiF0_BExo6D7f7bKIX9d2LuhE-->
+<!--    </String>-->
+<!--</resources>-->
